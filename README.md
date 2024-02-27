@@ -10,6 +10,10 @@ Existen dos tipos de lenguajes
 - Lenguajes *formales*
 - Lenguajes normales
 
+1. Lista ordenada
+2. pq si
+3. basicamente
+
 Estudiaremos principalmente los lengueajes ***formales***
 
 #### Python básico
